@@ -1,13 +1,8 @@
 # readmetest
 
-[gear_ref]: gear.png
+Font-awesome hackaround
 
-![gear](gear.png)
+[gear]: images/b/64/gear.png
 
-![gear2](images/b/64/gear.png)
-
-
-ref down here 
-![gear_ref]
-[gear_ref]
+![Gear alt text][gear]
 
