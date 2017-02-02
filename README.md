@@ -1,4 +1,4 @@
 # readmetest
 
-<img src='gear.svg?raw=true'></img>
+<img src='https://raw.githubusercontent.com/austinmoffa/readmetest/master/gear.svg'></img>
 
