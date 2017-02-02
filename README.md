@@ -1,3 +1,3 @@
 # readmetest
 
-<img src='./images/b/gear.svg'></img>
+<img src='gear.svg'></img>
