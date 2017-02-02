@@ -1,4 +1,8 @@
 # readmetest
 
-<img src='https://raw.githubusercontent.com/austinmoffa/readmetest/master/gear.svg'></img>
+<img src='gear.png'></img>
+
+![gear](gear.png)
+
+![gear2](images/b/64/gear.png)
 
