@@ -1,3 +1,4 @@
 # readmetest
 
-<img src='gear.svg'></img>
+<img src='gear.svg?raw=true'></img>
+
